@@ -5,21 +5,19 @@
 This is a repository that I have created to track my progress in AI/Data Science related topics in order to organise my knowledge and goals. Purpose of doing this is self-motivation, open source/study material for others, portfolio and TODO list.
 
 ## Table of contents
-- [Kamil Krzyk - My Road to AI](#kamil-krzyk---my-road-to-ai)
+- [ProXcelerator-MyPathToMachineLearning-AI](#Taylor-Baker---my-path-to-machine-learning-ai)
 - [About](#about)
 - [Table of Contents](#table-of-contents)
-- [AI Related Presentations](#ai-related-presentations)
-- [Mini AI Projects](#mini-ai-projects)
+- [Small AI Projects](#small-ai-projects)
 	+ [Problem Solving](#problem-solving)
-	+ [Visualisation](#visualisation)
-- [AI Programming Showcase](#ai-programming-showcase)
-	+ [Raw Python](#raw-python)
+	+ [Data Visualisation](#data-visualisation)
+- [AI Programming Examples](#ai-programming-examples)
+	+ [Python](#python)
 	+ [sklearn](#sklearn)
 	+ [TensorFlow](#tensorflow)
 	+ [Keras](#keras)
 - [Articles](#articles)
-- [Courses & Certificates](#courses--certificates)
-- [Sources](#sources)
+- [Certificates](#certificates)
 - [Contact](#contact)
 
 ## Mini AI Projects
