@@ -2,15 +2,12 @@
 
 ## About
 
-This is a repository that I have created to track my progress in AI/Data Science related topics in order to organise my knowledge and goals. Purpose of doing this is self-motivation, open source/study material for others, portfolio and TODO list.
+I've established this repository to document and showcase my journey in AI and Data Science. It serves as a central hub for tracking my progress, organizing knowledge, and setting goals. The main objectives include creating project documentation, sharing open-source materials for study, and building a portfolio that reflects my expertise for potential collaborators and employers.
 
 ## Table of contents
 - [ProXcelerator-MyPathToMachineLearning-AI](#Taylor-Baker---my-path-to-machine-learning-ai)
 - [About](#about)
 - [Table of Contents](#table-of-contents)
-- [Small AI Projects](#small-ai-projects)
-	+ [Problem Solving](#problem-solving)
-	+ [Data Visualisation](#data-visualisation)
 - [AI Programming Examples](#ai-programming-examples)
 	+ [Python](#python)
 	+ [sklearn](#sklearn)
@@ -20,23 +17,6 @@ This is a repository that I have created to track my progress in AI/Data Science
 - [Certificates](#certificates)
 - [Contact](#contact)
 
-## Mini AI Projects
-In this section I will focus about digging up relationship and visualising data. I will try to use Machine learning and visualisation methods for problem solving.
-
-### Problem Solving
-| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Prediction of Bike Shop Clients Number | Used MLP with 1-layer, mini-batch | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Raw/MLP_BikeShopStockPrediction/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
-| Kaggle - Titanic Disaster survivor prediction | Used Logistic Regression with ~80% accuracy | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LogisticRegression/raw_solution/LogisticRegression_Raw.ipynb) | Titanic Disaster | 19.10.2017 | 24.10.2017 |
-
-## Mini AI Projects
-In this section I will focus about digging up relationship and visualising data. I will try to use Machine learning and visualisation methods for problem solving.
-
-### Problem Solving
-| Problem | Description | Implementation | Dataset | Creation Date | Last Update |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Prediction of Bike Shop Clients Number | Used MLP with 1-layer, mini-batch | [Python (numpy, matplotlib)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Raw/MLP_BikeShopStockPrediction/MultilayerPerceptron-BikeSharing-Raw.ipynb) | Bike-Sharing | 13.08.2017 | 13.08.2017 |
-| Kaggle - Titanic Disaster survivor prediction | Used Logistic Regression with ~80% accuracy | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LogisticRegression/raw_solution/LogisticRegression_Raw.ipynb) | Titanic Disaster | 19.10.2017 | 24.10.2017 |
 
 
 #### Machine Learning
@@ -50,10 +30,10 @@ In this section I will focus about digging up relationship and visualising data.
 | PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
 | Naive Bayes | Gaussian Distribution | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/NaiveBayes/raw_solution/NaiveBayes_PimaIndiansDiabetes_raw.ipynb) | Pima Indian Diabetes | 02.11.2017 | 03.11.2017 |
 
-#### Deep Learning
+#### Deep Learning Keras
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLP | Digit Classification | 2-layers, mini-batch | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Raw/MLP_MNIST/MultilayerPerceptron-MNIST-Raw.ipynb) | MNIST | 19.06.2017 | 14.08.2017 |
+| CNN | Image Classification | 256x256 , Sequential model | [Python (Keras)](https://github.com/ProXcelerator/Covid-19-Prediction-Portfolio-Project) | Covid-19 X-Ray Images | 28.12.2023 | 30.12.2023 |
 
 ### sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
