@@ -53,17 +53,20 @@ I've established this repository to document and showcase my journey in AI and D
 ## Courses & Certificates
 
 - Programming languages:
-	+ [Machine Learning and AI Fundamentals Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5701108f64cd4a02981c161085ccc50e) (Jun, 23) (CodeCademy)
- 	+ [Feature Engineering Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6130e8cb1042c20023c9bbda) (Aug, 23) (CodeCademy)
+	+ [Machine Learning and AI Fundamentals Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5701108f64cd4a02981c161085ccc50e) (Jun, 23) (CodeCademy)  
+ 	+ [Feature Engineering Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6130e8cb1042c20023c9bbda) (Aug, 23) (CodeCademy)  
 
 
 - AI related:
-  	+[Data Scientist- Machine Learning/AI Professional Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/8e9e59de3f924b33ad2371faf667129b) (Dec, 23) (CodeCademy)
-	+[Machine Learning/AI Engineer Career Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6f8e0510ca91437a847b53aa9e9aa3f1) (Aug, 23)  (CodeCademy)
-  	+[Build Deep Learning Models with TensorFlow Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5f85c4b9c431a800138a60e0) (Dec, 23) (CodeCademy)
+  	+[Data Scientist- Machine Learning/AI Professional Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/8e9e59de3f924b33ad2371faf667129b) (Dec, 23) (CodeCademy)  
+	+[Machine Learning/AI Engineer Career Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6f8e0510ca91437a847b53aa9e9aa3f1) (Aug, 23)  (CodeCademy)  
+  	+[Build Deep Learning Models with TensorFlow Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5f85c4b9c431a800138a60e0) (Dec, 23) (CodeCademy)  
 
 
-## Contact
-	-Email: TaylorBakercontact@gmail.com
- 	-[Linked-in](https://www.linkedin.com/in/taylor-baker-807827274) 
+## Contact:
+-Email: TaylorBakercontact@gmail.com
+-[Linked-in](https://www.linkedin.com/in/taylor-baker-807827274) 
+
+
+	
 
