@@ -50,7 +50,7 @@ I've established this repository to document and showcase my journey in AI and D
 | MLP | Prediction | TensorFlow Prediction | [Python (TensorFlow)]([https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb)) | School Admissions | 28.12.2023 | 01.01.2024 |
 
 
-## Courses & Certificates
+## Certificates
 
 - Programming languages:
 	+ [Machine Learning and AI Fundamentals Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5701108f64cd4a02981c161085ccc50e) (Apr - Jun, 23) (CodeCademy)  
@@ -64,8 +64,14 @@ I've established this repository to document and showcase my journey in AI and D
 
 
 ## Contact:
--Email: TaylorBakercontact@gmail.com
--[Linked-in](https://www.linkedin.com/in/taylor-baker-807827274) 
+-Email: TaylorBakercontact@gmail.com   
+-[Linked-in](https://www.linkedin.com/in/taylor-baker-807827274)    
+
+
+
+
+
+
 
 
 	
