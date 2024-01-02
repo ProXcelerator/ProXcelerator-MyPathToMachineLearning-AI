@@ -22,13 +22,13 @@ I've established this repository to document and showcase my journey in AI and D
 #### Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linear Regression | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/raw_solution/LinearRegression_Raw.ipynb) | Generated Numbers | 18.04.2017 | 15.09.2017 |
-| Ridge Regression | Compared result with Linear Regression | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/RidgeRegression/raw_solution/RidgeRegression_Raw.ipynb) | Generated Numbers | 23.09.2017 | 23.09.2017 |
-| Polynomial Regression | Approximating Polynomial of degree 2 | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/raw_solution/PolynomialRegression_Degree2_Raw.ipynb) | Generated Numbers | 08.06.2017 | 15.09.2017 |
-| Polynomial Regression | Approximating Polynomial of degree 3 | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/raw_solution/PolynomialRegression_Degree3_Raw.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
-| KNN | Manhattan, Euclidean Similarity | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/raw_solution/KNN_Iris_Raw.ipynb) | iris | 21.07.2017| 24.09.2017 |
-| PCA | - | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/PrincipalComponentAnalysis/PCA_Raw.ipynb) | Generated Numbers | 01.04.2017 | 23.09.2017 |
-| Naive Bayes | Gaussian Distribution | [Python (raw)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/NaiveBayes/raw_solution/NaiveBayes_PimaIndiansDiabetes_raw.ipynb) | Pima Indian Diabetes | 02.11.2017 | 03.11.2017 |
+| A-B Testing | Chi2, Binome | [Python (raw)]() | Website Clicks | 2023 | 2023 |
+|  | Compared result with Linear Regression | [Python (raw)]() | Generated Numbers | 23.09.2017 | 23.09.2017 |
+| Polynomial Regression | Approximating Polynomial of degree 2 | [Python (raw)]() | Generated Numbers | 08.06.2017 | 15.09.2017 |
+| Polynomial Regression | Approximating Polynomial of degree 3 | [Python (raw)]() | Generated Numbers | 10.06.2017 | 15.09.2017 |
+| KNN | Manhattan, Euclidean Similarity | [Python (raw)]() | iris | 21.07.2017| 24.09.2017 |
+| PCA | - | [Python (raw)]() | Generated Numbers | 01.04.2017 | 23.09.2017 |
+| Naive Bayes | Gaussian Distribution | [Python (raw)]() | Pima Indian Diabetes | 02.11.2017 | 03.11.2017 |
 
 #### Deep Learning Keras
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
@@ -38,36 +38,36 @@ I've established this repository to document and showcase my journey in AI and D
 ### sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linear Regression | - | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/sklearn_solution/LinearRegression_Sklearn.ipynb) | Generated Numbers | 18.04.2017 | 15.09.2017 |
-| Polynomial Regression | Approximating Polynomial of degree 2 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree2_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
-| Polynomial Regression | Approximating Polynomial of degree 3 | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/PolynomialRegression/sklearn_solution/PolynomialRegression_Degree3_Sklearn.ipynb) | Generated Numbers | 10.06.2017 | 15.09.2017 |
-| KNN | Euclidean Similarity | [Python (sklearn)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/KNN/sklearn_solution/KNN_Iris_Sklearn.ipynb) | iris | 22.07.2017 | 24.09.2017 |
+| Linear Regression | - | [Python (sklearn)]() | Generated Numbers | 18.04.2017 | 15.09.2017 |
+| Polynomial Regression | Approximating Polynomial of degree 2 | [Python (sklearn)]() | Generated Numbers | 10.06.2017 | 15.09.2017 |
+| Polynomial Regression | Approximating Polynomial of degree 3 | [Python (sklearn)]() | Generated Numbers | 10.06.2017 | 15.09.2017 |
+| KNN | Euclidean Similarity | [Python (sklearn)]() | iris | 22.07.2017 | 24.09.2017 |
 
 ### TensorFlow
 
 #### Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linear Regression | - | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/MachineLearning/Regression/LinearRegression/tensorflow_solution/LinearRegression_Tensorflow.ipynb) | Generated Numbers | 23.09.2017 | 23.09.2017 |
+| Linear Regression | - | [Python (Tensorflow)]() | Generated Numbers | 23.09.2017 | 23.09.2017 |
 
 #### Deep Learning
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLP | Digit Classification | 2-layers, mini-batch, dropout-regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/MLP_MNIST/MultilayerPerceptron-MNIST-Tensorflow.ipynb) | MNIST | 29.06.2017 | 18.07.2017 |
-| MLP | Encrypting data with Autoencoder | 1-layer Encoder, 1-layer Decoder, mini-batch | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/Autoencoder_ImageEncriptionMNIST/MLP-Encryption-Autoencoder.ipynb) | MNIST | 13.07.2017 | 13.07.2017 |
-| MLP | Digit Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/CNN_MNIST/ConvNet-MNIST-Tensorflow-BN-tflayer.ipynb) | MNIST| 16.08.2017 | 23.08.2017 |
-| CNN | 10 Classes Color Images Classification | tf.nn module, dropout regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/CNN_CIFAR10/ConvNet-CIFAR10-Tensorflow-tfnn.ipynb) | CIFAR-10 | 16.08.2017 | 07.09.2017 |
-| CNN | 10 Classes Color Images Classification | tf.layer module, dropout regularization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/CNN_CIFAR10/ConvNet-CIFAR10-Tensorflow-tflayer.ipynb) | CIFAR-10 | 16.08.2017 | 09.09.2017 |
-| CNN | 10 Classes Color Images Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/CNN_CIFAR10/ConvNet-CIFAR10-Tensorflow-BN-tflayer.ipynb) | CIFAR-10 | 19.08.2017 | 10.09.2017 |
-| RNN | Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/RNN_FrenchEnglishTranslatior/dlnd_language_translation.ipynb) | Small part of French-English corpus | 05.05.2017 | 24.05.2017 |
-| RNN | "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/RNN_SimpsonsScriptGenerator/dlnd_tv_script_generation.ipynb) | "The Simpsons" script | 06.06.2017 | 14.07.2017 |
-| DCGAN | Generating Human Face Miniatures | DCGAN | [Python (Tensorflow)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Tensorflow/Autoencoder_ImageEncriptionMNIST/MLP-Encryption-Autoencoder.ipynb) | CelebA | 11.09.2017 | 13.09.2017 |
+| MLP | Digit Classification | 2-layers, mini-batch, dropout-regularization | [Python (Tensorflow)]() | MNIST | 29.06.2017 | 18.07.2017 |
+| MLP | Encrypting data with Autoencoder | 1-layer Encoder, 1-layer Decoder, mini-batch | [Python (Tensorflow)]() | MNIST | 13.07.2017 | 13.07.2017 |
+| MLP | Digit Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)]() | MNIST| 16.08.2017 | 23.08.2017 |
+| CNN | 10 Classes Color Images Classification | tf.nn module, dropout regularization | [Python (Tensorflow)]() | CIFAR-10 | 16.08.2017 | 07.09.2017 |
+| CNN | 10 Classes Color Images Classification | tf.layer module, dropout regularization | [Python (Tensorflow)]() | CIFAR-10 | 16.08.2017 | 09.09.2017 |
+| CNN | 10 Classes Color Images Classification | tf.layer module, dropout regularization, batch normalization | [Python (Tensorflow)]() | CIFAR-10 | 19.08.2017 | 10.09.2017 |
+| RNN | Simple Language Translator | In form of my DLFND project for now | [Python (Tensorflow)]() | Small part of French-English corpus | 05.05.2017 | 24.05.2017 |
+| RNN | "The Simpsons" Script Generation | In form of my DLFND project for now | [Python (Tensorflow)]() | "The Simpsons" script | 06.06.2017 | 14.07.2017 |
+| DCGAN | Generating Human Face Miniatures | DCGAN | [Python (Tensorflow)]() | CelebA | 11.09.2017 | 13.09.2017 |
 
 
 ### Keras
 | Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLP | Digit Classification | 2-layers, mini-batch, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_MNIST/MLP%20MNIST%20-%20Keras%20Solution.ipynb) | MNIST | 10.03.2018 | 10.03.2018 |
+| MLP | Digit Classification | 2-layers, mini-batch, BN | [Python (Keras)]() | MNIST | 10.03.2018 | 10.03.2018 |
 | MLP | Clothes Images Classification | 2-layers, mini-batch, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_FashionMnist/MLP%20Fashion%20MNIST%20-%20Keras%20Solution.ipynb) | Fashion MNIST | 15.04.2018 | 15.04.2018 |
 | MLP | Letters Classification | 2-layers, mini-batch, BN | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_EMNIST/MLP%20EMNIST%20-%20Keras%20Solution.ipynb) | EMNIST | 24.04.2018 | 24.04.2018 |
 | MLP | Review Sentiment Classification | Bag of Words | [Python (Keras)](https://github.com/FisherKK/F1sherKK-MyRoadToAI/blob/master/AI-Implementations/DeepLearning/Keras/MLP_ImdbReviewSentimentPrediction/MLP%20IMDB%20Sentiment%20Analysis%20-%20Bag%20of%20Words%20-%20%20Keras%20Solution.ipynb) | IMDB Reviews | 11.03.2018 | 11.03.2018 |
