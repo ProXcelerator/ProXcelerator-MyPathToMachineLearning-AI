@@ -58,9 +58,9 @@ I've established this repository to document and showcase my journey in AI and D
 
 
 - AI related:  
-+[Data Scientist- Machine Learning/AI Professional Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/8e9e59de3f924b33ad2371faf667129b) (Aug - Dec, 23) (CodeCademy)  
-+[Machine Learning/AI Engineer Career Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6f8e0510ca91437a847b53aa9e9aa3f1) (Jun - Aug, 23)  (CodeCademy)  
-+[Build Deep Learning Models with TensorFlow Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5f85c4b9c431a800138a60e0) (Dec, 23) (CodeCademy)  
+	+[Data Scientist- Machine Learning/AI Professional Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/8e9e59de3f924b33ad2371faf667129b) (Aug - Dec, 23) (CodeCademy)  
+	+[Machine Learning/AI Engineer Career Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6f8e0510ca91437a847b53aa9e9aa3f1) (Jun - Aug, 23)  (CodeCademy)  
+	+[Build Deep Learning Models with TensorFlow Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5f85c4b9c431a800138a60e0) (Dec, 23) (CodeCademy)  
 
 
 ## Contact:
