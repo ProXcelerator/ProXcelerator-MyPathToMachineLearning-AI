@@ -28,11 +28,11 @@ I've established this repository to document and showcase my journey in AI and D
 | KNN | KNNBasic, SVD | [Python (suprise)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Recommendation%20system/Recommendation%20system%20-%20KNNBasic%20-%20SVD.ipynb) | Movie Ratings Dataset | 21.07.2023 | 24.09.2023 |
 
 ## Deep Learning Keras
-| Net Type | Problem | Description | Implementation | Dataset | Creation Date | Last Update |
+| Net Type | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CNN | Image Classification | 256x256 , Sequential model | [Python (Keras)](https://github.com/ProXcelerator/Covid-19-Prediction-Portfolio-Project) | Covid-19 X-Ray Images | 28.12.2023 | 30.12.2023 |
-| CNN | Image Classification | 256x256 , Sequential model | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/galaxy%20classification%20tnsor%20flow/galaxy%20classification%20tensor%20flow.ipynb) | Galaxy Images | 28.12.2023 | 01.01.2024 |
-| MLP | Prediction | TensorFlow Prediction | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
+| CNN | Image Classification | [Python (Keras)](https://github.com/ProXcelerator/Covid-19-Prediction-Portfolio-Project) | Covid-19 X-Ray Images | 28.12.2023 | 30.12.2023 |
+| CNN | Image Classification | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/galaxy%20classification%20tnsor%20flow/galaxy%20classification%20tensor%20flow.ipynb) | Galaxy Images | 28.12.2023 | 01.01.2024 |
+| MLP | Prediction | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
 
 ## Sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
