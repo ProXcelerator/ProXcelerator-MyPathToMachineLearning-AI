@@ -32,7 +32,7 @@ I've established this repository to document and showcase my journey in AI and D
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | CNN | Image Classification | 256x256 , Sequential model | [Python (Keras)](https://github.com/ProXcelerator/Covid-19-Prediction-Portfolio-Project) | Covid-19 X-Ray Images | 28.12.2023 | 30.12.2023 |
 | CNN | Image Classification | 256x256 , Sequential model | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/galaxy%20classification%20tnsor%20flow/galaxy%20classification%20tensor%20flow.ipynb) | Galaxy Images | 28.12.2023 | 01.01.2024 |
-| MLP | Prediction | TensorFlow Prediction | [Python (Keras)]([https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb)) | School Admissions | 28.12.2023 | 01.01.2024 |
+| MLP | Prediction | TensorFlow Prediction | [Python (Keras)]([https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
 
 ## Sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
@@ -47,7 +47,7 @@ I've established this repository to document and showcase my journey in AI and D
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Decision Tree | Bagging Classifier | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/BaggingClassifier-DecisionTree/BaggingClassifier%20used%20on%20Decision%20trees%20and%20logistic%20regression.ipynb) | Car Dataset | 18.04.2023 | 15.09.2023 |
 | MLP | tf.layer module, Normalization | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Tensor%20Flow%20Project/Tensor%20Flow%20Project.ipynb) | Car Dataset | 18.04.2023 | 15.09.2023 |
-| MLP | Prediction | TensorFlow Prediction | [Python (TensorFlow)]([https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb)) | School Admissions | 28.12.2023 | 01.01.2024 |
+| MLP | Prediction | TensorFlow Prediction | [Python (TensorFlow)]([https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
 
 
 ## Certificates
