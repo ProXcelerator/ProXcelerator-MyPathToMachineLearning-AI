@@ -20,7 +20,7 @@ I've established this repository to document and showcase my journey in AI and D
 
 ## Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | A-B Testing | Chi2, Binome | [Python (raw)]() | Website Clicks | 2023 | 2023 |
 | Decision Tree | Decision Stump | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision%20Stump/Decision%20Stump.ipynb) | Car Dataset | 23.09.2023 | 23.09.2023 |
 | Decision Tree | Feature Selection | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision-Tree/Decision%20tree%20using%20random%20features%20for%20feature%20selection.ipynb) | Car Dataset | 08.06.2023 | 15.09.2023 |
@@ -29,7 +29,7 @@ I've established this repository to document and showcase my journey in AI and D
 
 ## Deep Learning Keras
 | Net Type | Description | Implementation | Dataset | Creation Date | Last Update |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | CNN | Image Classification | [Python (Keras)](https://github.com/ProXcelerator/Covid-19-Prediction-Portfolio-Project) | Covid-19 X-Ray Images | 28.12.2023 | 30.12.2023 |
 | CNN | Image Classification | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/galaxy%20classification%20tnsor%20flow/galaxy%20classification%20tensor%20flow.ipynb) | Galaxy Images | 28.12.2023 | 01.01.2024 |
 | MLP | Prediction | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
