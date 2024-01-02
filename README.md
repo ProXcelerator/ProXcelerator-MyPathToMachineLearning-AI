@@ -34,7 +34,7 @@ I've established this repository to document and showcase my journey in AI and D
 | CNN | Image Classification | 256x256 , Sequential model | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/galaxy%20classification%20tnsor%20flow/galaxy%20classification%20tensor%20flow.ipynb) | Galaxy Images | 28.12.2023 | 01.01.2024 |
 | MLP | Prediction | TensorFlow Prediction | [Python (Keras)]([https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb)) | School Admissions | 28.12.2023 | 01.01.2024 |
 
-## sklearn
+## Sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Decision Tree Classifier | Bagging Classifier | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/BaggingClassifier-DecisionTree/BaggingClassifier%20used%20on%20Decision%20trees%20and%20logistic%20regression.ipynb) | Car Dataset | 18.04.2023 | 15.09.2023 |
@@ -58,9 +58,9 @@ I've established this repository to document and showcase my journey in AI and D
 
 
 - AI related:  
-	+[Data Scientist- Machine Learning/AI Professional Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/8e9e59de3f924b33ad2371faf667129b) (Aug - Dec, 23) (CodeCademy)  
-	+[Machine Learning/AI Engineer Career Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6f8e0510ca91437a847b53aa9e9aa3f1) (Jun - Aug, 23)  (CodeCademy)  
-	+[Build Deep Learning Models with TensorFlow Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5f85c4b9c431a800138a60e0) (Dec, 23) (CodeCademy)  
+	+ [Data Scientist- Machine Learning/AI Professional Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/8e9e59de3f924b33ad2371faf667129b) (Aug - Dec, 23) (CodeCademy)  
+	+ [Machine Learning/AI Engineer Career Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/6f8e0510ca91437a847b53aa9e9aa3f1) (Jun - Aug, 23)  (CodeCademy)  
+	+ [Build Deep Learning Models with TensorFlow Skill Path Certificate](https://www.codecademy.com/profiles/TBaker777/certificates/5f85c4b9c431a800138a60e0) (Dec, 23) (CodeCademy)  
 
 
 ## Contact:
