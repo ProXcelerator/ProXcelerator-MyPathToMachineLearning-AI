@@ -20,7 +20,7 @@ I've established this repository to document and showcase my journey in AI and D
 
 ## Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | A-B Testing | Chi2, Binome | [Python (raw)]() | Website Clicks | 2023 | 2023 |
 | Decision Tree | Decision Stump | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision%20Stump/Decision%20Stump.ipynb) | Car Dataset | 23.09.2023 | 23.09.2023 |
 | Decision Tree | Feature Selection | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision-Tree/Decision%20tree%20using%20random%20features%20for%20feature%20selection.ipynb) | Car Dataset | 08.06.2023 | 15.09.2023 |
