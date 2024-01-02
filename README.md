@@ -21,11 +21,11 @@ I've established this repository to document and showcase my journey in AI and D
 ## Machine Learning
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| A-B Testing | Chi2, Binome | [Python (raw)]() | Website Clicks | 2023 | 2023 |
-| Decision Tree | Decision Stump | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision%20Stump/Decision%20Stump.ipynb) | Car Dataset | 23.09.2023 | 23.09.2023 |
-| Decision Tree | Feature Selection | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision-Tree/Decision%20tree%20using%20random%20features%20for%20feature%20selection.ipynb) | Car Dataset | 08.06.2023 | 15.09.2023 |
-| Pipline | Custom pipeline creation | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Custom-Transformer-Pipeline/creating%20your%20own%20class%20transformer%20for%20machine%20learning%20pipeline.ipynb) | Abalone Dataset | 10.06.2023 | 15.09.2023 |
-| KNN | KNNBasic, SVD | [Python (suprise)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Recommendation%20system/Recommendation%20system%20-%20KNNBasic%20-%20SVD.ipynb) | Movie Ratings Dataset | 21.07.2023 | 24.09.2023 |
+| A-B Testing | Chi2, Binome | [Python (raw)]() | Website Clicks | 10.11.2023 | 17.11.2023 |
+| Decision Tree | Decision Stump | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision%20Stump/Decision%20Stump.ipynb) | Car Dataset | 19.07.2023 | 01.01.2024 |
+| Decision Tree | Feature Selection | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Decision-Tree/Decision%20tree%20using%20random%20features%20for%20feature%20selection.ipynb) | Car Dataset | 15.07.2023 | 01.01.2024 |
+| Pipline | Custom pipeline creation | [Python (raw)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Custom-Transformer-Pipeline/creating%20your%20own%20class%20transformer%20for%20machine%20learning%20pipeline.ipynb) | Abalone Dataset | 24.07.2023 | 26.08.2023 |
+| KNN | KNNBasic, SVD | [Python (suprise)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Machine-Learning/Recommendation%20system/Recommendation%20system%20-%20KNNBasic%20-%20SVD.ipynb) | Movie Ratings Dataset | 29.11.2023 | 01.01.2024 |
 
 ## Deep Learning Keras
 | Net Type | Description | Implementation | Dataset | Creation Date | Last Update |
@@ -33,21 +33,21 @@ I've established this repository to document and showcase my journey in AI and D
 | CNN | Image Classification | [Python (Keras)](https://github.com/ProXcelerator/Covid-19-Prediction-Portfolio-Project) | Covid-19 X-Ray Images | 28.12.2023 | 30.12.2023 |
 | CNN | Image Classification | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/galaxy%20classification%20tnsor%20flow/galaxy%20classification%20tensor%20flow.ipynb) | Galaxy Images | 28.12.2023 | 01.01.2024 |
 | MLP | Prediction | [Python (Keras)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
+| MLP | Prediction | [Python (Keras)](https://github.com/ProXcelerator/Tree-Species-Classification-Tensorflow-Keras-Model/blob/main/CoverType-classification.ipynb) | Tree Cover Dataset | 31.12.2023 | 01.01.2024 |
 
 ## Sklearn
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Decision Tree Classifier | Bagging Classifier | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/BaggingClassifier-DecisionTree/BaggingClassifier%20used%20on%20Decision%20trees%20and%20logistic%20regression.ipynb) | Car Dataset | 18.04.2023 | 15.09.2023 |
-| Decision Tree Classifier | Random Forest Classifier | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Random-Forest-Classifier/Random%20Forest%20Classifier%20project.ipynb) | Peoples Income From Different Countries | 10.06.2023 | 15.09.2023 |
-| Logistic Regression | PCA, Column Transformer, grid search, pipeline | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Sklearn-Pipeline-Bone-marrow-survival%20prediction/bone%20marrow%20-%20pipeline%20project.ipynb) | Bone Marrow Dataset | 10.06.2023 | 15.09.2023 |
-| TPOT Classifier | Classification | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/TPOT-Classifier/raisin%20classifying%20TPOT%20classifier%20example.ipynb) | Raisin Dataset | 22.07.2023 | 24.09.2023 |
+| Decision Tree Classifier | Bagging Classifier | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/BaggingClassifier-DecisionTree/BaggingClassifier%20used%20on%20Decision%20trees%20and%20logistic%20regression.ipynb) | Car Dataset | 15.07.2023 | 01.01.2024 |
+| Decision Tree Classifier | Random Forest Classifier | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Random-Forest-Classifier/Random%20Forest%20Classifier%20project.ipynb) | Peoples Income From Different Countries | 01.07.2023 | 01.01.2024 |
+| Logistic Regression | PCA, Column Transformer, grid search, pipeline | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Sklearn-Pipeline-Bone-marrow-survival%20prediction/bone%20marrow%20-%20pipeline%20project.ipynb) | Bone Marrow Dataset | 28.07.2023 | 01.01.2024 |
+| TPOT Classifier | Classification | [Python (sklearn)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/TPOT-Classifier/raisin%20classifying%20TPOT%20classifier%20example.ipynb) | Raisin Dataset | 14.07.2023 | 01.01.2024 |
 
 ## TensorFlow
 | Algorithm  | Description | Implementation | Dataset | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Decision Tree | Bagging Classifier | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/BaggingClassifier-DecisionTree/BaggingClassifier%20used%20on%20Decision%20trees%20and%20logistic%20regression.ipynb) | Car Dataset | 18.04.2023 | 15.09.2023 |
-| MLP | tf.layer module, Normalization | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Tensor%20Flow%20Project/Tensor%20Flow%20Project.ipynb) | Car Dataset | 18.04.2023 | 15.09.2023 |
-| MLP | Prediction | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 28.12.2023 | 01.01.2024 |
+| MLP | tf.layer module, Normalization | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/SKlearn/Tensor%20Flow%20Project/Tensor%20Flow%20Project.ipynb) | Car Dataset | 28.12.2023 | 01.01.2024 |
+| MLP | Prediction | [Python (TensorFlow)](https://github.com/ProXcelerator/ProXcelerator-MyPathToMachineLearning-AI/blob/main/Deep-Learning/regression-addmissions-prediction-TensorFlow/Tensor%20Flow%20Portfolio%20Project.ipynb) | School Admissions | 27.12.2023 | 01.01.2024 |
 
 
 ## Certificates
